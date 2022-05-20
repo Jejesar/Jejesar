@@ -4,7 +4,15 @@ Hello, I'm Jejesar. I'm currently a computer sciences student of 19y.
 **char** IRLname[] = *"Jérôme Sartiaux"*;
 
 ### Skills
-✅ ![HTML5](https://img.icons8.com/color/12/000000/html-5--v1.png) HTML
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 
 ## My creations.
 
