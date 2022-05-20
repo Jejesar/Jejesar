@@ -1,3 +1,7 @@
+## About me.
+Hello, I'm Jejesar. I'm currently a computer sciences student of 19y. 
+IRLname = "Jérôme Sartiaux"
+
 ## My creations.
 
 - Portfolio : [*link*](https://jejesar.hosterfy.fr/)
