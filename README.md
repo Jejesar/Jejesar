@@ -1,12 +1,9 @@
 ## About me.
 Hello, I'm Jejesar. I'm currently a computer sciences student of 19y. 
-IRLname = "Jérôme Sartiaux"
 
-| Titre 1       |     Titre 2     |        Titre 3 |
-| :------------ | :-------------: | -------------: |
-| Colonne       |     Colonne     |        Colonne |
-| Alignée à     |   Alignée au    |      Alignée à |
-| Gauche        |     Centre      |         Droite |
+IRLname = "Jérôme Sartiaux";
+
+### Skills
 
 
 ## My creations.
