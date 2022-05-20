@@ -1,7 +1,9 @@
 ## About me.
 Hello, I'm Jejesar. I'm currently a computer sciences student of 19y. 
 
+```c
 char IRLname[] = "Jérôme Sartiaux";
+```
 
 ### Skills
 
