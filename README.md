@@ -1,6 +1,7 @@
 ## About me.
 Hello, I'm Jejesar. I'm currently a computer sciences student of 19y. 
-IRLname = "Jérôme Sartiaux"
+\nIRLname = "Jérôme Sartiaux"
+
 
 ## My creations.
 
