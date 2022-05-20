@@ -5,8 +5,12 @@ Hello, I'm Jejesar. I'm currently a computer sciences student of 19y.
 
 ### Skills
 **Development**
+
 [![My Skills](https://skillicons.dev/icons?i=c,css,html,js,discord,py,sass)](https://skillicons.dev)
+
+
 **Graphics**
+
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
 
 ## My creations.
