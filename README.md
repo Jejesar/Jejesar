@@ -1,12 +1,10 @@
 ## About me.
 Hello, I'm Jejesar. I'm currently a computer sciences student of 19y. 
 
-```c
-char IRLname[] = "Jérôme Sartiaux";
-```
+**char** IRLname[] = *"Jérôme Sartiaux"*;
 
 ### Skills
-
+[x] ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
 
 ## My creations.
 
