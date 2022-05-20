@@ -3,13 +3,12 @@ Hello, I'm Jejesar. I'm currently a computer sciences student of 19y.
 
 **char** IRLname[] = *"Jérôme Sartiaux"*;
 
-### Skills
-**Development**
+### Development skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,js,discord,py,sass,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,js,discord,py,scss)](https://skillicons.dev)
 
 
-**Graphics**
+## Graphic skills
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
 
