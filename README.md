@@ -1,5 +1,5 @@
 ## About me.
-Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a computer sciences student of 19y.
+Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industrial computer sciences student in 1rst grade. I'm 19 years old.
 
 ### Development skills
 
