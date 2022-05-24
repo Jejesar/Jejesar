@@ -1,6 +1,9 @@
 ## About me.
-Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a computer sciences student of 19y. 
+Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a computer sciences student of 19y.
 
+| |
+| :-: |
+| Excerpts from Romeo and Juliet (arr. V. Borisovsky) |
 
 ### Development skills
 
