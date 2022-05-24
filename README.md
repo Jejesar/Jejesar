@@ -6,7 +6,7 @@ Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a computer 
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,html,js,discord,py,scss)](https://skillicons.dev)
 
-## Graphic skills
+### Graphic skills
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
 
