@@ -1,7 +1,7 @@
 ## About me.
 Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a computer sciences student of 19y.
 
-| Test |
+- [x] Test
 
 ### Development skills
 
