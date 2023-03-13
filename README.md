@@ -12,8 +12,7 @@ Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industria
 
 ## My creations.
 
-- My website (coming soon) : [*link*](http://www.jejesar.site/)
-- Portfolio : [*link*](https://jejesar.hosterfy.fr/)
+- My website (coming soon) : [*link*](http://jejesar.be/)
 - Music website : [*link*](https://greenpeppermusic.be/)
 - Discord bot : **Sanduuqa 📦#0686**
 
