@@ -17,5 +17,5 @@ Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industria
 - Discord bot : **Sanduuqa 📦#0686**
 
 ## Contact me.
-- Discord : JEJESAR#0069
+- Discord : @jejesar
 - @mail : jejesar.pro@gmail.com
