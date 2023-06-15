@@ -3,11 +3,14 @@ Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industria
 
 ### Development skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,js,discord,py,scss,react,mysql,java,docker,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,jquery,scss,vite,react,express,mysql,prisma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,discord,py,java,docker,arduino)](https://skillicons.dev)
+
 
 ### Graphic skills
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma)](https://skillicons.dev)
 
 
 ## My creations.
