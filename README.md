@@ -1,5 +1,11 @@
 ## About me.
-Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industrial computer sciences student in 2nd grade. I'm 19 years old.
+Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industrial computer sciences student in 2nd grade. I'm 20 years old.
+
+### Actual project(s)
+I'm currently working on :
+- a Discord bot (Sanduuqa)
+- a dashboard for this bot
+- an admin page for a website (to modify the content of this one)
 
 ### Development skills
 
@@ -15,7 +21,8 @@ Hello, I'm Jejesar, my real name is Jérôme Sartiaux. I'm currently a industria
 
 ## My creations.
 
-- My website (coming soon) : [*link*](http://jejesar.be/)
+- My website (coming soon) : [*link*](https://jejesar.be/)
+- Dashboard for Discord bot (wip) : [*link*](https://sanduuqa.jejesar.be/)
 - Music website : [*link*](https://greenpeppermusic.be/)
 - Discord bot : **Sanduuqa 📦#0686**
 
