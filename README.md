@@ -8,9 +8,9 @@ I'm currently working on :
 
 ### Development skills
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,jquery,scss,vite,react,express,nextjs,mysql,prisma,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,jquery,scss,bootstrap,vite,react,discord)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,discord,py,java,docker,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nextjs,postgres,mysql,prisma,nodejs,c,py,java,docker,arduino)](https://skillicons.dev)
 
 
 ### Graphic skills
